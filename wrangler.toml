@@ -1,0 +1,9 @@
+# Cloudflare Pages 配置
+# 此文件用于 Cloudflare Pages 的 Functions 功能（可选）
+
+name = "my-blog"
+compatibility_date = "2024-01-01"
+
+# 如果使用 Cloudflare Workers 作为后端，可以在此配置
+# [site]
+# bucket = "./dist"
